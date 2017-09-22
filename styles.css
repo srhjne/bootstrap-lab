@@ -1,0 +1,26 @@
+nav.navbar{
+    background-color: #A7DD69;
+    color: white;
+
+}
+
+nav.navbar-default .navbar-nav li a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+.info {
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+nav.navbar-default .navbar-nav li ul a {
+    color: black;
+}
